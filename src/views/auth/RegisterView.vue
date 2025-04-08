@@ -5,7 +5,7 @@ import AppLayout from '@/components/layout/AppLayout.vue'
   <AppLayout>
     <template #content>
       <v-row class="d-flex justify-center">
-        <v-col cols="12" md="5">
+        <v-col cols="12" md="5" class="pt-16">
           <v-card class="mx-auto">
             <v-card-title class="text-center">
               <h3 class="font-weight-black text-center">GBW GYM</h3>
