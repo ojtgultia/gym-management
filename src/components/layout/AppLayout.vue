@@ -38,8 +38,8 @@ function onClick() {
         </v-container>
       </v-main>
 
-      <v-footer border app class="bg-light-green-lighten-1 font-weight-bold"
-        >2025 - All Rights Reserved</v-footer
+      <v-footer border app class="bg-light-green-lighten-1 text-caption font-weight-bold"
+        >Copyright © 2025 GBW GYM - All Rights Reserved</v-footer
       >
     </v-app>
   </v-responsive>
